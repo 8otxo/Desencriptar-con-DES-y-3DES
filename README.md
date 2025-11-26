@@ -1,1 +1,1 @@
-Código para encriptar y desencriptar con DES y 3DES.
+Code for encrypt and desencrypt using DES and 3DES
